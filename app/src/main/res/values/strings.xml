@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Smaczne.pl</string>
+
+    <string name="navigation_drawer_open">Otwórz nawigacjię</string>
+    <string name="navigation_drawer_close">Zamknij nawigację</string>
+    <string name="restaurant">Restauracje</string>
+    <string name="category">Kuchnie</string>
+    <string name="favorites">Ulubione restauracje</string>
+    <string name="favorite_food">Ulubione dania</string>
+    <string name="wizzard">Tutorial</string>
+    <string name="exit">Wyloguj</string>
+
+    <!--Home Activity-->
+    <string name="welcome_title">Witamy</string>
+    <string name="welcome_sign_to_continue">Zaloguj się, aby kontynuować.</string>
+    <string name="welcome_email_or_username">EMAIL LUB NAZWA UŻYTKOWNIKA</string>
+    <string name="welcome_password">Hasło</string>
+    <string name="welcome_login_button">Zaloguj</string>
+    <string name="welcome_fb_login_button">ZALOGUJ PRZEZ FACEBOOK</string>
+    <string name="welcome_forgot_password">ZAPOMNIAŁEŚ HASŁA?</string>
+    <string name="welcome_dont_have_account">NIE MASZ JESZCZE KONTA? ZAREJESTRUJ SIĘ.</string>
+
+    <!--Home Activity-->
+    <string name="home_categories">Dania</string>
+    <string name="home_places">Restauracje</string>
+    <string name="home_view_all">Lista kategorii</string>
+    <string name="home_search">Szukaj</string>
+    <string name="home_toolbar">Witaj</string>
+    <string name="home_filter">Filtr</string>
+
+    <!--Place Activity-->
+    <string name="place_delivery">Dostawa</string>
+    <string name="place_open_time">Harmonogram</string>
+    <string name="place_contact">Kontakt</string>
+    <string name="place_featured">Polecane</string>
+    <string name="place_menu">MENU</string>
+
+
+    <!--Item Details Activity-->
+    <string name="item_details_extra_title">Dodatki</string>
+    <string name="item_details_extra_obs">Jakieś sugestie?</string>
+    <string name="item_details_extra_hint">Np.: wyjmij cebulę, osobno majonez etc...</string>
+    <string name="item_details_description">OPIS</string>
+    <string name="item_details_add_to_order">Specjalne życzenia</string>
+
+    <!--Profile Activity-->
+    <string name="profile_toolbar">Profil</string>
+    <string name="profile_edit">Edytuj</string>
+    <string name="profile_account_credits">Suma</string>
+    <string name="profile_favorite_foods">Ulubione dania</string>
+    <string name="profile_favorite_restaurants">Ulubione restauracje</string>
+
+    <!--Favorite Foods Activity-->
+    <string name="fav_food_toolbar">ULUBIONE DANIA</string>
+    <string name="fav_food_title">Ulubione dania</string>
+
+    <!--Favorite Restaurants Activity-->
+    <string name="fav_place_toolbar">ULUBIONE RESTAURACJE</string>
+    <string name="fav_place_title">Ulubione restauracje</string>
+
+    <!--Restaurants List Activity-->
+    <string name="places_list_toolbar">RESTAURACJE</string>
+    <string name="places_list_title">Restauracje</string>
+
+    <!--Categories List Activity-->
+    <string name="categories_list_toolbar">KATEGORIE</string>
+    <string name="categories_list_title">Kategorie</string>
+    <string name="categories_list_contact">Masz jakąś kategorię do zaproponowania? Skontaktuj się z nami!</string>
+
+    <!--Menu-->
+    <string name="menu_home">Start</string>
+    <string name="menu_discover">Szukaj</string>
+    <string name="menu_favorite">Ulubione</string>
+    <string name="menu_profile">Profil</string>
+
+    <!--Ask for food-->
+    <string name="ask_for_food_begin">Witam, Chciałbym zamówić jeden</string>
+    <string name="ask_for_food_extras">z dodatkami: </string>
+
+</resources>
